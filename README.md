@@ -5,3 +5,5 @@ I'm focusing my work in sweden so it's possible that the symtoms and medication 
 
 this will use python for the code and xml for the vy. after that i will make it PWA friendly and after make it sure that works most of the times it will be translated to the diferents langueges.
 everything will be for free this is just to learn and help people that have a hard time and can't always aford a Hospital.
+
+THIS TILL START AT FEBRUARI 2026
